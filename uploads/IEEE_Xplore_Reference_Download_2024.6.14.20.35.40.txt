@@ -1,0 +1,48 @@
+1. S Johnson, Importance of data analysis in research, 2011,  [online]  Available: http://dissertation-help-uk.blogspot.com/2011/12/importance-of-data-analysis-in-research.html.
+
+2. Otte Evelien and Rousseau Ronald, Social network analysis:a powerful strategy also for the information science, 2012,  [online]  Available: http://jis.sagepub.com/content/28/6/441.short.
+
+3. University of Washington,  [online]  Available: http://www.statnet.org/.
+
+4. Tore Opsahi, tnet package,  [online]  Available: https://toreopsahl.com/tnet/software/.
+
+5. Introduction to social network analysis,  [online]  Available: http://web.mit.edu/vdb/www/6.977/l-jenn.pdf.
+
+6. R Guns, L Yuxian and M Dilruba, Q-measures and betweenness centrality in a collaboration network: A case study of the field of informetrics, 2011,  [online]  Available: https://www.researchgate.net/publication/220364520_Q-measures_and_betweenness_centrality_in_a_collaboration_network_A_case_study_of_the_field_of_informetrics.
+
+7. C Janet, C Frances and B Jeffrey, Bridges brokers and boundary spanners in collaborative networks: a systematic review,  [online]  Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648408/.
+
+8. P Suraj and K. Roshni, Social network analysis in student online discussion forums,  [online]  Available: http://ieeexplore.ieee.org/document/7488402/.
+
+9. Donglei Du, Social network analysis: centrality measures,  [online]  Available: http://www2.unb.ca/~ddu/6634/Lecture_notes/Lecture_4_centrality_measure.pdf.
+
+10. C. Boot, Algorithms for Determining the Clustering Coefficient in Large Graphs,  [online]  Available: http://www2.unb.ca/~ddu/6634/Lecture_notes/Lec3_network_statistics_handout.pdf.
+
+11. M. Meghanathan, Centrality measures,  [online]  Available: http://www.jsums.edu/nmeghanathan/files/2015/08/CSC641-Fall2015-Module-2-Centrality-Measures.pdf?x61976.
+
+12. W. Cyprian, Social network analysis with respondent-driven sampling data: a study of racial integration on campus,  [online]  Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850221/.
+
+13. D.Q. Nykamp, An introduction to network,  [online]  Available: http://mathinsight.org/network_introduction.
+
+14. G Matt and Y. Greg, OpenGL,  [online]  Available: http://whatis.techtarget.com/definition/OpenGL-Open-Graphics-Library.
+
+15. M Warih and A.G. Alfian, Collaborative Social Network Analysis and Content-based Approach to Improve The Marketing Strategy of SMEs in Indonesia,  [online]  Available: https://core.ac.uk/download/pdf/82603372.pdf.
+
+16. P. Suraj and V.S.K Roshini, Social network analysis in student online discussion forums, 2015,  [online]  Available: http://ieeexplore.ieee.org/document/7488402/.
+
+17. B. Michal, Package intergraph, 2015,  [online]  Available: https://cran.r-project.org/web/packages/intergraph/intergraph.pdf.
+
+18. Krebs, Social Network analysis,  [online]  Available: http://www.orgnet.com/sna.html.
+
+19. R Ruth, B Krists and A.B. Tom, Package RSiena, 2013,  [online]  Available: https://cran.r-project.org/web/packages/RSiena/RSiena.pdf.
+
+20. U. Joshuwa, Why use R, 2010,  [online]  Available: https://www.r-bloggers.com/why-use-r/.
+
+21. A. Metwally, D. Agrawal and A. El Abbadi, "Efficient computation of frequent and top-k elements in data streams" in Database Theory, 2005,  [online]  Available: http://link.springer.com/chapter/10.1007%2F978-3-540-30570-5_27.
+
+22. J. S. Vitter, "Random sampling with a reservoir", ACM Transactions on Mathematical Software (TOMS),  [online]  Available: https://www.cs.umd.edu/~samir/498/vitter.pdf.
+
+23. P. Suraj and V.S.K Roshini, Social network analysis in student online discussion forums, 2015,  [online]  Available: http://ieeexplore.ieee.org/document/7488402/.
+
+24.  [online]  Available: http://shiny.rstudio.com/.
+
